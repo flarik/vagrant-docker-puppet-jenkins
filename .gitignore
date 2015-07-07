@@ -1,0 +1,8 @@
+# Ignore vagrant
+.vagrant/
+
+# MacOS X
+.DS_Store
+
+# vim
+*.un~
